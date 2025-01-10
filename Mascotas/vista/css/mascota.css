@@ -1,0 +1,53 @@
+:root {
+    --custom-primary: #0f4141;
+    --custom-secondary: #1f51459e;
+    --custom-light: #ffffff;
+} 
+
+
+
+#tablaMascota{
+    border-radius: 10px;
+   
+}
+
+#btnAgregarMascota{
+    background-color: #0f4141;
+}
+
+#fondoMascota{
+    background-color:#5cb3a7a3; 
+}
+
+.bg-custom-secondary{
+    background-color: var(--custom-secondary); 
+}
+
+.text-custom-light {
+    color: var(--custom-light);
+}
+
+#btnEditarMascota{
+    width: 75px;
+}
+
+#btnEliminarMascota{
+    width: 75px;
+}
+
+#containerFluid{
+    border-radius: 10px;
+    background-color: rgba(200, 230, 221, 0.842);
+   
+}
+
+#tablaMascota table{
+    background-color: black;
+}
+
+#gatitoSvg{
+    width: 200px;
+    height: 200px;
+    margin-left: 780px;
+    margin-top: -200px;
+}

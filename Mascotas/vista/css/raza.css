@@ -1,0 +1,78 @@
+:root {
+    --custom-primary: #0f4141;
+    --custom-secondary: #08796f;
+    --custom-light: #ffffff;
+    --custom-dark: #b6ddb6;
+} 
+
+#contenedorRaza{
+    background-color: #74caca46;
+}
+
+.bg-custom-secondary {
+    background-color: var(--custom-secondary); 
+}
+
+.text-custom-light {
+    color: var(--custom-light);
+}
+
+.text-custom-dark {
+    color: var(--custom-light);
+}
+
+.table-custom-secondary {
+    background-color: var(--custom-secondary);
+    color: var(--custom-secondary);
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(74, 171, 182, 0.455);
+}
+
+
+#imgRaza{
+    width: 200px;
+    height: 200px;
+    margin-left: 770px;
+    margin-top: -160px;
+}
+
+#panelTablaRaza{
+    background-color: #0f7c7329;
+}
+
+#btn-EditarRaza{
+    color: #ffffff;
+    border-bottom: #c7fffa;
+    background-color: #08796f;
+}
+
+#btn-RegistrarRaza{
+    color: #ffffff;
+    border-bottom: #c7fffa;
+    background-color: #08796f;
+}
+
+#btn-AgregarRaza{
+    color: #ffffff;
+    border-bottom: #c7fffa;
+    background-color: #0d3935c8;
+}
+
+#btn-Regresar{
+    color: #ffffff;
+    border-bottom: #c7fffa;
+    background-color: #c93f0d9e;
+}
+
+#btn-RegresarEditar{
+    color: #ffffff;
+    border-bottom: #c7fffa;
+    background-color: #c93f0d9e;
+}
+
+#tablaRaza{
+    margin-top: 20px;
+}
+

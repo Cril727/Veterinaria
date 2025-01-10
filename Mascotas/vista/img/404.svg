@@ -1,0 +1,6 @@
+<svg class="pet-icon" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="100" cy="100" r="80" fill="#4CAF50"/>
+            <circle cx="65" cy="80" r="20" fill="white"/>
+            <circle cx="135" cy="80" r="20" fill="white"/>
+            <path d="M70 130 Q100 160 130 130" stroke="white" stroke-width="10" fill="none"/>
+</svg>

@@ -1,0 +1,16 @@
+:root {
+    --custom-primary: #0f4141;
+    --custom-secondary: #08796f;
+    --custom-light: #ffffff;
+    --custom-dark: #b6ddb6;
+} 
+
+.bg-custom-primary {
+    background-color: var(--custom-primary);
+    color: var(--custom-light);
+    height: 80px;
+}
+
+.m-top{
+    margin-top: 20px;
+}

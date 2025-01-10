@@ -1,0 +1,29 @@
+:root {
+    --custom-primary: #0f4141;
+    --custom-secondary: #1f51459e;
+    --custom-light: #ffffff;
+} 
+
+
+
+
+
+#fondoUsuario{
+    background-color: var(--custom-secondary); 
+    
+}
+
+#btnAgregarUsuario{
+    background-color: #0f4141;
+}
+
+.text-custom-light {
+    color: var(--custom-light);
+}
+
+#imgUsuario{
+    width: 200px;
+    height: 200px;
+    margin-top: -200px;
+    margin-left: 780px;
+}
